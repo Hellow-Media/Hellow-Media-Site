@@ -19,7 +19,7 @@ main[b-g99638wy9i] {
     justify-content: flex-end;
     height: 3.5rem;
     display: flex;
-    align-items: center;
+    align-items: right;
 }
 
     .top-row[b-g99638wy9i]  a, .top-row[b-g99638wy9i]  .btn-link {
@@ -74,6 +74,7 @@ main[b-g99638wy9i] {
     .top-row[b-g99638wy9i], article[b-g99638wy9i] {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
+        text-align: left;
     }
 }
 /* /Layout/NavMenu.razor.rz.scp.css */
