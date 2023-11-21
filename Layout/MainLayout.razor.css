@@ -18,7 +18,7 @@ main {
     justify-content: flex-end;
     height: 3.5rem;
     display: flex;
-    align-items: center;
+    align-items: right;
 }
 
     .top-row ::deep a, .top-row ::deep .btn-link {
@@ -73,5 +73,6 @@ main {
     .top-row, article {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
+        text-align: left;
     }
 }
