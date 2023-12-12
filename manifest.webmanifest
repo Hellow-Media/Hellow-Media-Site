@@ -1,6 +1,6 @@
 {
-  "name": "HellowWorldDevSite",
-  "short_name": "HellowWorldDevSite",
+  "name": "HMG Mod Tool Documentation",
+  "short_name": "HMG Mod Tool Documentation",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
